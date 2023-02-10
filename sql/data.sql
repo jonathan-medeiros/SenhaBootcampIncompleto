@@ -9,7 +9,7 @@
 
 create database senha;
 
-use database senha;
+use senha;
 
 create table atendimento(
 id integer primary key auto_increment,
